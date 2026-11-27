@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "zeropoint": {
+      "type": "http",
+      "url": "${ZEROPOINT_MCP_URL:-https://api.zeropointapp.com/mcp}",
+      "headers": {
+        "Authorization": "Bearer ${ZEROPOINT_TEST_API_KEY}"
+      }
+    }
+  }
+}

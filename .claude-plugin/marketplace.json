@@ -1,0 +1,24 @@
+{
+  "name": "zeropoint",
+  "description": "ZeroPoint Payments: payments orchestration for coding agents.",
+  "owner": {
+    "name": "ZeroPoint",
+    "url": "https://github.com/zeropointapp/zeropoint-payments-plugin"
+  },
+  "plugins": [
+    {
+      "name": "zeropoint-payments",
+      "source": "./plugins/zeropoint-payments",
+      "description": "Connect Claude Code to ZeroPoint Payments over MCP and add sandbox payments to your app with guided, read-only-first skills.",
+      "version": "0.6.0",
+      "category": "payments",
+      "keywords": [
+        "payments",
+        "mcp",
+        "zeropoint",
+        "terminal",
+        "checkout"
+      ]
+    }
+  ]
+}

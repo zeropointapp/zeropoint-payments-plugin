@@ -1,0 +1,8 @@
+{
+  "name": "zeropoint-payments",
+  "description": "ZeroPoint Payments for Claude Code: the zeropoint MCP server plus /zeropoint-payments:connect and /zeropoint-payments:build-payments.",
+  "version": "0.6.0",
+  "author": { "name": "ZeroPoint", "url": "https://github.com/zeropointapp/zeropoint-payments-plugin" },
+  "homepage": "https://github.com/zeropointapp/zeropoint-payments-plugin",
+  "keywords": ["payments", "mcp", "zeropoint"]
+}
